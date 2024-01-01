@@ -10,7 +10,7 @@ The purpose of this analysis is to evaluate the performance of two machine learn
 ### Original Dataset Model
 
 - Balanced Accuracy Score: 95.2%
-- F1 Score: 
+- F1 Score: 99%
 - Precision Score:
   - Precision for Healthy Loan: 99.7%
   - Precision for High-Risk Loan: 84.8%
@@ -21,6 +21,7 @@ The purpose of this analysis is to evaluate the performance of two machine learn
 ### Resampled Dataset Model
 
 - Balanced Accuracy Score: 99.3%
+- F1 Score: 99%
 - Precision Score:
   - Precision for Healthy Loan:99.9%
   - Precision for High-Risk Loan: 84.1%
